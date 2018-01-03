@@ -5,7 +5,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BondGoat/react-native-native-video-player.git"
+    "url": "git+https://github.com/bitjjj/react-native-native-video-player.git"
   },
   "keywords": [
     "react-native-component",
